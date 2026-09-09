@@ -43,9 +43,9 @@ El laboratorio se divide en dos partes:
 - El ADC muestra buena **repetibilidad** (desviación estándar de 3,8–6,1 mV, equivalente a 4,7–7,6 LSB) pero un **error sistemático de offset** frente al multímetro (+9,7 a +25,6 mV en todos los ensayos).
 - La dispersión medida supera ampliamente el ruido de cuantización teórico (LSB ideal ≈ 0,806 mV para VREF = 3,3 V), lo que indica que el ruido térmico/eléctrico domina sobre la cuantización.
 
-## Autor
+## Autores
 
-Juan Pablo Correa Niño — Ingeniería en Telecomunicaciones, UMNG.
+Juan Pablo Correa Niño; william enrique galvis correa — Ingeniería en Telecomunicaciones, UMNG.
 
 ## Referencias
 
